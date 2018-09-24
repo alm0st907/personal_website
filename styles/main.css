@@ -1,0 +1,27 @@
+.topbar
+{
+    text-align: left;
+    color: white;
+    background-color: rgba(0, 0,0, .8);
+    margin: auto;
+    top: 0;
+    
+    width: 80%;
+
+
+}
+
+.background
+{
+    background-image: url("../img/chainimage-backgroundshd-fresh-scenic-and-home-desktop-wallpaper-37034s-html.jpg");
+}
+
+.main
+{
+    width: 80%;
+    margin: auto;
+    background-color:rgba(0, 0,0, .8);
+    color: white;
+
+    
+}
